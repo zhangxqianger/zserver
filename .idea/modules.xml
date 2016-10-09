@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://E://zserver/zserver.iml" filepath="E://zserver/zserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zserver.iml" filepath="$PROJECT_DIR$/zserver.iml" />
     </modules>
   </component>
 </project>
